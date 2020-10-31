@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://github.com/MFarelS/followers"><img title="Followers" src="https://img.shields.io/github/followers/MFarelS?color=blue&style=flat-square"></a>
 <a href="https://github.com/MFarelS/Rajin-Nulis-BOT-By-MFarelS/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MFarelS/Rajin-Nulis-BOT-By-MFarelS?color=red&style=flat-square"></a>
-<a href="https://github.com/MFarelS/Rajin-Nulis-BOT-By-MFarelS/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MFarelS/  Rajin-Nulis-BOT-By-MFarelS?color=red&style=flat-square"></a>
+<a href="https://github.com/MFarelS/Rajin-Nulis-BOT-By-MFarelS/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MFarelS/Rajin-Nulis-BOT-By-MFarelS?color=red&style=flat-square"></a>
 <a href="https://github.com/MFarelS/Rajin-Nulis-BOT-By-MFarelS/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MFarelS/Rajin-Nulis-BOT-By-MFarelS?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
